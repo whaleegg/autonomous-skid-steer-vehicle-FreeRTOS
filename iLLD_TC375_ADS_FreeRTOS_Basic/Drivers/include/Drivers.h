@@ -20,9 +20,11 @@
 #include "Led.h"
 #include "motor_bsp.h"
 #include "Stm.h"
-#include "Switch.h"
+#include "Button.h"
 #include "ultrasonic_bsp.h"
 // 기존 bsp.h의 내용(CPU_CLOCK_MHZ 등)도 여기에 포함
+
+#include "App_Config.h"
 
 
 /*==================================================================*/

@@ -38,6 +38,10 @@ int Can_Get_Front_Dist(void) {
     return dist_front;
 }
 
+void Can_Set_Front_Dist(unsigned int dist) {
+    dist_front = dist;
+}
+
 void Can_Let_Parking(int state){
     parking = state;
     if (state == 0) {
@@ -61,7 +65,7 @@ void Can_Init(CAN_BAUDRATES ls_baudrate, CAN_NODE CAN_Node)
     switch (ls_baudrate)
     {
         case BD_NOUSE:
-            g_mcmcan.canNodeConfig.busLoopbackEnabled = TRUE;
+            g_mcmcan.canNodeConfig.busLoopbackEnabled = FALSE;
             break;
         case BD_500K:
             g_mcmcan.canNodeConfig.baudRate.baudrate = 500000;

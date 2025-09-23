@@ -43,21 +43,21 @@ void System_Init(void)
     /* Basic I/O */
     Led_Init();
     Buzzer_Init();
-    Switch_Init();
+    Button_Init();
 
     /* Timers */
 //    Stm_Init(); // STM 타이머가 다른 기능(예: 초음파)에 필요할 수 있으므로 먼저 초기화
     Gpt12_Gpt1_Init();
     Gpt12_Gpt2_Init();
-//    Gtm_Atom_Pwm_Init();
+    Gtm_Atom_Pwm_Init();
 
     /* Sensors */
-    Encoder_Init();
+//    Encoder_Init();
     Ultrasonic_Init();
     // ToF_Sensor_Init(); // ToF 센서가 있다면 여기에 추가
 
     /* Actuators */
-    Motor_Init();
+//    Motor_Init();
 
     /* Communication */
     Asclin0_InitUart(); // UART

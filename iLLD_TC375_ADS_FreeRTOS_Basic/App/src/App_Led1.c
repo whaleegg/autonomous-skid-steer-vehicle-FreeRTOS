@@ -30,7 +30,7 @@
 /*********************************************************************************************************************/
 #include "Port/Io/IfxPort_Io.h"
 
-#include "App_Config.h"
+#include "Drivers.h"
 #include "FreeRTOS.h"
 #include "task.h"
 

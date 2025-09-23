@@ -36,7 +36,7 @@ void vEncoderProcessingTask(void *pvParameters)
         taskENTER_CRITICAL();
 
         if (intCnt_enc0 > 0) {
-            rpm0 = 1500000 / (int)(diffSum_enc0 / intCnt_enc0);
+            rpm0 = 150000000 / (int)(diffSum_enc0 / intCnt_enc0);
         } else {
             rpm0 = 0;
         }
@@ -45,7 +45,7 @@ void vEncoderProcessingTask(void *pvParameters)
         local_rpm0 = rpm0; // 지역 변수에 복사
 
         if (intCnt_enc1 > 0) {
-            rpm1 = 1500000 / (int)(diffSum_enc1 / intCnt_enc1);
+            rpm1 = 150000000 / (int)(diffSum_enc1 / intCnt_enc1);
         } else {
             rpm1 = 0;
         }

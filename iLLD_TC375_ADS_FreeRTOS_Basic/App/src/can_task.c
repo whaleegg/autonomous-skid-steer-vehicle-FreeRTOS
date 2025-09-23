@@ -1,6 +1,6 @@
-#include <Drivers/include/can_bsp.h>
-#include <Drivers/include/motor_bsp.h>
-#include <Drivers.h>
+//#include <Drivers/include/can_bsp.h>
+//#include <Drivers/include/motor_bsp.h>
+#include "Drivers.h"
 #include "App/include/can_task.h"
 
 // CAN 메시지 큐 생성
@@ -24,6 +24,7 @@ void vCanMessageHandlerTask(void *pvParameters)
         // 큐에서 CAN 메시지가 수신될 때까지 무한정 대기
         if (xQueueReceive(xCanRxQueue, &xReceivedMessage, portMAX_DELAY) == pdPASS)
         {
+            my_printf("CAN MSG Received! ID: %d\n", xReceivedMessage.id);
             // 수신된 메시지 ID에 따라 처리
             if (xReceivedMessage.id == 0x100) // 원격 주행 명령
             {
@@ -41,8 +42,10 @@ void vCanMessageHandlerTask(void *pvParameters)
             }
             else if (xReceivedMessage.id == 522) // TOF 센서 + AEB
             {
-                // 기존 Can_Rx_Isr_Handler의 522 처리 로직을 여기에 구현
-                // AEB 로직은 별도 태스크로 분리하는 것을 고려
+                my_printf("TOF RAW: 0x%02X 0x%02X\n", xReceivedMessage.data[0], xReceivedMessage.data[1]);
+
+                unsigned int front_dist = (unsigned int)(xReceivedMessage.data[0] | (xReceivedMessage.data[1] << 8));
+                Can_Set_Front_Dist(front_dist);
             }
         }
     }

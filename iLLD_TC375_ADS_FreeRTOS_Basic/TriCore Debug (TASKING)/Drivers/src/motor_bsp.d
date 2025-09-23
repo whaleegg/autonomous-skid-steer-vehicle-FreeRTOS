@@ -1,95 +1,95 @@
 motor_bsp.o :	../Drivers/src/motor_bsp.c
 ../Drivers/src/motor_bsp.c :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\can_bsp.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\can_bsp.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Encoder.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Encoder.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\can_bsp.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\can_bsp.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Isr_Priority.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Isr_Priority.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Stm.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Stm.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\Ifx_Types.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\Ifx_Types.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Configurations\Ifx_Cfg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Configurations\Ifx_Cfg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\can_bsp.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\can_bsp.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Encoder.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Encoder.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\can_bsp.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\can_bsp.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Isr_Priority.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Isr_Priority.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Stm.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Stm.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\Ifx_Types.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\Ifx_Types.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Configurations\Ifx_Cfg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Configurations\Ifx_Cfg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h" :
 motor_bsp.o :	"C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h"
 "C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\Platform_Types.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\Platform_Types.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\Ifx_TypesTasking.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\Ifx_TypesTasking.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\IfxCpu.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\IfxCpu.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxCpu_cfg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxCpu_cfg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCpu_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCpu_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCpu_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCpu_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\Ifx_TypesReg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\Ifx_TypesReg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSrc_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSrc_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSrc_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSrc_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxScu_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxScu_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxScu_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxScu_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxStm_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxStm_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxStm_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxStm_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxScu_cfg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxScu_cfg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxScu_bf.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxScu_bf.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Service\\CpuGeneric\_Utilities\Ifx_Assert.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Service\\CpuGeneric\_Utilities\Ifx_Assert.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\Ifx_Types.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\Ifx_Types.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Scu\Std\IfxScuWdt.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Scu\Std\IfxScuWdt.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Scu\Std\IfxScuWdt.asm.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Scu\Std\IfxScuWdt.asm.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Scu\Std\IfxScuCcu.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Scu\Std\IfxScuCcu.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\IfxCpu.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\IfxCpu.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_PinMap\IfxScu_PinMap.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_PinMap\IfxScu_PinMap.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Port\Std\IfxPort.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Port\Std\IfxPort.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxPort_cfg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxPort_cfg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPort_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPort_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPort_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPort_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSmu_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSmu_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSmu_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSmu_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDmu_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDmu_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDmu_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDmu_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Led.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Led.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Drivers.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Drivers.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Asclin.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Asclin.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\Platform_Types.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\Platform_Types.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\Ifx_TypesTasking.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\Ifx_TypesTasking.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\IfxCpu.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Std\IfxCpu.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxCpu_cfg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxCpu_cfg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCpu_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCpu_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCpu_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCpu_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\Ifx_TypesReg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\Ifx_TypesReg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSrc_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSrc_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSrc_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSrc_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxScu_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxScu_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxScu_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxScu_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxStm_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxStm_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxStm_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxStm_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxScu_cfg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxScu_cfg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxScu_bf.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxScu_bf.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Service\\CpuGeneric\_Utilities\Ifx_Assert.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Service\\CpuGeneric\_Utilities\Ifx_Assert.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\Ifx_Types.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\Ifx_Types.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Scu\Std\IfxScuWdt.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Scu\Std\IfxScuWdt.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Scu\Std\IfxScuWdt.asm.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Scu\Std\IfxScuWdt.asm.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Scu\Std\IfxScuCcu.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Scu\Std\IfxScuCcu.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\IfxCpu.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Cpu\Std\IfxCpu.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_PinMap\IfxScu_PinMap.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_PinMap\IfxScu_PinMap.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Port\Std\IfxPort.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Port\Std\IfxPort.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxPort_cfg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxPort_cfg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPort_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPort_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPort_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPort_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSmu_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSmu_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSmu_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSmu_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDmu_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDmu_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDmu_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDmu_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Led.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Led.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Drivers.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Drivers.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Asclin.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Asclin.h" :
 motor_bsp.o :	"C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ctc\include\stdlib.h"
 "C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ctc\include\stdlib.h" :
 motor_bsp.o :	"C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ctc\include\stdio.h"
@@ -98,203 +98,209 @@ motor_bsp.o :	"C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ct
 "C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ctc\include\stdarg.h" :
 motor_bsp.o :	"C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ctc\include\string.h"
 "C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ctc\include\string.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\Ifx_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\Ifx_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxAsclin_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxAsclin_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxAsclin_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxAsclin_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCan_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCan_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCan_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCan_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCbs_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCbs_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCbs_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCbs_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCcu6_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCcu6_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCcu6_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCcu6_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxConverter_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxConverter_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxConverter_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxConverter_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDma_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDma_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDma_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDma_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDom_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDom_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDom_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDom_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEdsadc_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEdsadc_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEdsadc_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEdsadc_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEray_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEray_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEray_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEray_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEvadc_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEvadc_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEvadc_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEvadc_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFce_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFce_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFce_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFce_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFsi_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFsi_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFsi_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFsi_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGeth_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGeth_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGeth_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGeth_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGpt12_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGpt12_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGpt12_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGpt12_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGtm_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGtm_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGtm_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGtm_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHsct_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHsct_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHsct_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHsct_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHssl_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHssl_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHssl_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHssl_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxI2c_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxI2c_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxI2c_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxI2c_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxInt_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxInt_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxInt_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxInt_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxIom_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxIom_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxIom_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxIom_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMinimcds_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMinimcds_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMinimcds_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMinimcds_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMsc_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMsc_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMsc_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMsc_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMtu_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMtu_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMtu_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMtu_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPfi_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPfi_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPfi_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPfi_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPms_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPms_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPms_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPms_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPmu_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPmu_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPmu_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPmu_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5s_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5s_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5s_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5s_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxQspi_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxQspi_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxQspi_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxQspi_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSbcu_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSbcu_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSbcu_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSbcu_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSent_reg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSent_reg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSent_regdef.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSent_regdef.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxAsclin_bf.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxAsclin_bf.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Scu\\Std\IfxScuWdt.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Scu\\Std\IfxScuWdt.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\Libraries\Infra\Platform\Tricore\Compilers\CompilerTasking.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\Libraries\Infra\Platform\Tricore\Compilers\CompilerTasking.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Buzzer.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Buzzer.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gpt12.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gpt12.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Led.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Led.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gtm_Atom_Pwm.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gtm_Atom_Pwm.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\_Impl\IfxGtm_cfg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\_Impl\IfxGtm_cfg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Gtm\\Atom\\Pwm\IfxGtm_Atom_Pwm.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Gtm\\Atom\\Pwm\IfxGtm_Atom_Pwm.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_PinMap\IfxGtm_PinMap.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_PinMap\IfxGtm_PinMap.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxGtm_cfg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxGtm_cfg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Atom.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Atom.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Tbu.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Tbu.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Src\Std\IfxSrc.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Src\Std\IfxSrc.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxSrc_cfg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxSrc_cfg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Cmu.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Cmu.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Tom.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Tom.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGtm_bf.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGtm_bf.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Tim.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Tim.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Cmu.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Cmu.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Dtm.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Dtm.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\motor_bsp.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\motor_bsp.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gtm_Atom_Pwm.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gtm_Atom_Pwm.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\Libraries\iLLD\TC37A\Tricore\Cpu\Std\Platform_Types.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\Libraries\iLLD\TC37A\Tricore\Cpu\Std\Platform_Types.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Switch.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Switch.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\ultrasonic_bsp.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\ultrasonic_bsp.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Port\\Std\IfxPort.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Port\\Std\IfxPort.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Can\\Std\IfxCan.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Can\\Std\IfxCan.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxCan_cfg.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxCan_cfg.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_PinMap\IfxCan_PinMap.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_PinMap\IfxCan_PinMap.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\motor_bsp.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\motor_bsp.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Can\\Can\IfxCan_Can.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Can\\Can\IfxCan_Can.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Can\Std\IfxCan.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Can\Std\IfxCan.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Irq\IfxCpu_Irq.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Irq\IfxCpu_Irq.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gtm_Atom_Pwm.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gtm_Atom_Pwm.h" :
-motor_bsp.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\motor_bsp.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\motor_bsp.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\Ifx_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\Ifx_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxAsclin_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxAsclin_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxAsclin_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxAsclin_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCan_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCan_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCan_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCan_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCbs_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCbs_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCbs_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCbs_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCcu6_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCcu6_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCcu6_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxCcu6_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxConverter_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxConverter_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxConverter_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxConverter_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDma_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDma_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDma_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDma_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDom_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDom_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDom_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxDom_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEdsadc_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEdsadc_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEdsadc_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEdsadc_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEray_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEray_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEray_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEray_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEvadc_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEvadc_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEvadc_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxEvadc_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFce_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFce_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFce_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFce_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFsi_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFsi_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFsi_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxFsi_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGeth_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGeth_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGeth_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGeth_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGpt12_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGpt12_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGpt12_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGpt12_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGtm_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGtm_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGtm_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGtm_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHsct_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHsct_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHsct_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHsct_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHssl_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHssl_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHssl_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxHssl_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxI2c_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxI2c_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxI2c_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxI2c_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxInt_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxInt_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxInt_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxInt_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxIom_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxIom_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxIom_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxIom_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMinimcds_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMinimcds_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMinimcds_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMinimcds_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMsc_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMsc_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMsc_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMsc_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMtu_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMtu_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMtu_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxMtu_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPfi_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPfi_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPfi_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPfi_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPms_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPms_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPms_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPms_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPmu_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPmu_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPmu_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPmu_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5s_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5s_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5s_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxPsi5s_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxQspi_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxQspi_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxQspi_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxQspi_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSbcu_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSbcu_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSbcu_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSbcu_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSent_reg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSent_reg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSent_regdef.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxSent_regdef.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxAsclin_bf.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxAsclin_bf.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Scu\\Std\IfxScuWdt.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Scu\\Std\IfxScuWdt.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\Libraries\Infra\Platform\Tricore\Compilers\CompilerTasking.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\Libraries\Infra\Platform\Tricore\Compilers\CompilerTasking.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Buzzer.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Buzzer.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gpt12.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gpt12.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Led.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Led.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gtm_Atom_Pwm.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gtm_Atom_Pwm.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\_Impl\IfxGtm_cfg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\_Impl\IfxGtm_cfg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Gtm\\Atom\\Pwm\IfxGtm_Atom_Pwm.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Gtm\\Atom\\Pwm\IfxGtm_Atom_Pwm.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_PinMap\IfxGtm_PinMap.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_PinMap\IfxGtm_PinMap.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxGtm_cfg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxGtm_cfg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Atom.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Atom.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Tbu.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Tbu.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Src\Std\IfxSrc.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Src\Std\IfxSrc.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxSrc_cfg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxSrc_cfg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Cmu.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Cmu.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Tom.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Tom.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGtm_bf.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\Infra\\Sfr\\TC37A\\_Reg\IfxGtm_bf.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Tim.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Tim.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Cmu.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Cmu.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Dtm.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Gtm\Std\IfxGtm_Dtm.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\motor_bsp.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\motor_bsp.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gtm_Atom_Pwm.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gtm_Atom_Pwm.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\Libraries\iLLD\TC37A\Tricore\Cpu\Std\Platform_Types.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\Libraries\iLLD\TC37A\Tricore\Cpu\Std\Platform_Types.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Button.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Button.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\ultrasonic_bsp.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\ultrasonic_bsp.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Port\\Std\IfxPort.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Port\\Std\IfxPort.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Can\\Std\IfxCan.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Can\\Std\IfxCan.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxCan_cfg.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_Impl\IfxCan_cfg.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_PinMap\IfxCan_PinMap.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\_PinMap\IfxCan_PinMap.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\App\\include\App_Config.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\App\\include\App_Config.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\_PinMap\IfxPort_PinMap.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\_PinMap\IfxPort_PinMap.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Port\Io\IfxPort_Io.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Port\Io\IfxPort_Io.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\motor_bsp.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\motor_bsp.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Can\\Can\IfxCan_Can.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Can\\Can\IfxCan_Can.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Can\Std\IfxCan.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\Can\Std\IfxCan.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Irq\IfxCpu_Irq.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Libraries\\iLLD\\TC37A\\Tricore\\Cpu\\Irq\IfxCpu_Irq.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gtm_Atom_Pwm.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\Gtm_Atom_Pwm.h" :
+motor_bsp.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\motor_bsp.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Drivers\\include\motor_bsp.h" :

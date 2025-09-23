@@ -16,8 +16,8 @@ void Led_Init(void)
     IfxPort_setPinModeOutput(LED2_PIN.port, LED2_PIN.pinIndex, IfxPort_OutputMode_pushPull, IfxPort_OutputIdx_general);
 
     // LED를 끈 상태로 초기화
-    IfxPort_setPinState(LED1_PIN.port, LED1_PIN.pinIndex, IfxPort_State_high);
-    IfxPort_setPinState(LED2_PIN.port, LED2_PIN.pinIndex, IfxPort_State_high);
+    IfxPort_setPinState(LED1_PIN.port, LED1_PIN.pinIndex, IfxPort_State_low);
+    IfxPort_setPinState(LED2_PIN.port, LED2_PIN.pinIndex, IfxPort_State_low);
 }
 
 void Led_Set(unsigned char num_LED, unsigned char onOff)

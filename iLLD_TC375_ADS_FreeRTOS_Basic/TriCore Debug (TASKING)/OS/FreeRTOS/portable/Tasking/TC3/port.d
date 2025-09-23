@@ -8,23 +8,23 @@ port.o :	"C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ctc\inc
 "C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ctc\include\typeinfo.h" :
 port.o :	"C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ctc\include\string.h"
 "C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ctc\include\string.h" :
-port.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\FreeRTOS.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\FreeRTOS.h" :
+port.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\FreeRTOS.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\FreeRTOS.h" :
 port.o :	"C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h"
 "C:\Infineon\AURIX-Studio-1.10.16\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h" :
-port.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Configurations\FreeRTOSConfig.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Configurations\FreeRTOSConfig.h" :
-port.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\projdefs.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\projdefs.h" :
-port.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\portable.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\portable.h" :
-port.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\deprecated_definitions.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\deprecated_definitions.h" :
-port.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\portable\\Tasking\\TC3\portmacro.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\portable\\Tasking\\TC3\portmacro.h" :
-port.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\mpu_wrappers.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\mpu_wrappers.h" :
-port.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\task.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\task.h" :
-port.o :	"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\list.h"
-"C:\\FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\list.h" :
+port.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Configurations\FreeRTOSConfig.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\Configurations\FreeRTOSConfig.h" :
+port.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\projdefs.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\projdefs.h" :
+port.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\portable.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\portable.h" :
+port.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\deprecated_definitions.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\deprecated_definitions.h" :
+port.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\portable\\Tasking\\TC3\portmacro.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\portable\\Tasking\\TC3\portmacro.h" :
+port.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\mpu_wrappers.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\mpu_wrappers.h" :
+port.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\task.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\task.h" :
+port.o :	"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\list.h"
+"C:\\Users\\USER\\Desktop\\FreeRTOS\\autonomous-vehicle-FreeRTOS\\iLLD_TC375_ADS_FreeRTOS_Basic\\OS\\FreeRTOS\\include\list.h" :

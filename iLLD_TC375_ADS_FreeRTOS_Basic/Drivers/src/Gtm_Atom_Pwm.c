@@ -19,7 +19,7 @@ void Gtm_Atom_Pwm_Init(void)
     uint16 psw = IfxScuWdt_getCpuWatchdogPassword();
     IfxScuWdt_clearCpuEndinit(psw);
     MODULE_GTM.CLC.B.DISR = 0;
-    IfxScuWdt_setCpuEndinit(psw);                                     /* Enable GTM                           */
+                                         /* Enable GTM                           */
 
     IfxGtm_Cmu_setClkFrequency(&MODULE_GTM, IfxGtm_Cmu_Clk_0, CLK_FREQ);    /* Set the CMU clock 0 frequency        */
     IfxGtm_Cmu_enableClocks(&MODULE_GTM, IFXGTM_CMU_CLKEN_CLK0);            /* Enable the CMU clock 0               */
@@ -48,6 +48,8 @@ void Gtm_Atom_Pwm_Init(void)
 
     IfxGtm_Atom_Pwm_init(&g_atomDriver_PwmB, &g_atomConfig_PwmB);                 /* Initialize the PWM                       */
     IfxGtm_Atom_Pwm_start(&g_atomDriver_PwmB, TRUE);                         /* Start the PWM                            */
+
+    IfxScuWdt_setCpuEndinit(psw);
 }
 
 void Gtm_Atom_Pwm_Set_Duty_Cycle_A(uint32 dutyCycle)

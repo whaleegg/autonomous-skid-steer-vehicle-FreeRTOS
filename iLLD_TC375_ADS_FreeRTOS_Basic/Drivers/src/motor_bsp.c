@@ -25,7 +25,7 @@ void Motor_Init(void) {
     MODULE_P10.OUT.B.P1 = 1;        // chA: set direction
     MODULE_P10.OUT.B.P2 = 1;        // chB: set direction
 
-    Gtm_Atom_Pwm_Init();
+//    Gtm_Atom_Pwm_Init();
 
     Gtm_Atom_Pwm_Set_Duty_Cycle_A(0); //duty rate 0~255
     Gtm_Atom_Pwm_Set_Duty_Cycle_B(0);

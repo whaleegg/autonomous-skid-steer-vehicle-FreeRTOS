@@ -100,10 +100,10 @@ IFX_INTERRUPT(Encoder_Enc1_Isr_Handler, 0, ISR_PRIORITY_ERU1);
 //IFX_INTERRUPT(Encoder_Stm1_Isr_Handler, 0, ISR_PRIORITY_STM1);
 
 void Encoder_Enc0_Isr_Handler(void) {
-    uint64 now = Stm_Get_Time_Us();
+    uint64 now = Stm_Get_Tick(); // Use raw ticks
     uint64 diff = now - prev_enc0;
     uint8 status = MODULE_P15.IN.B.P4;
-    if (diff < 500 || status == lastStatus_enc0)
+    if (diff < 50000 || status == lastStatus_enc0) // Debounce in ticks (500us * 100MHz)
         return;
     intCnt_enc0++;
     diffSum_enc0 += diff;
@@ -112,10 +112,10 @@ void Encoder_Enc0_Isr_Handler(void) {
 }
 
 void Encoder_Enc1_Isr_Handler(void) {
-    uint64 now = Stm_Get_Time_Us();
+    uint64 now = Stm_Get_Tick(); // Use raw ticks
     uint64 diff = now - prev_enc1;
     uint8 status = MODULE_P33.IN.B.P7;
-    if (diff < 500 || status == lastStatus_enc1)
+    if (diff < 50000 || status == lastStatus_enc1) // Debounce in ticks (500us * 100MHz)
         return;
     intCnt_enc1++;
     diffSum_enc1 += diff;

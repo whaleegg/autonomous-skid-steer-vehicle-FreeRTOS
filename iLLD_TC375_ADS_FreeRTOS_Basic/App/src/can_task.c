@@ -42,9 +42,10 @@ void vCanMessageHandlerTask(void *pvParameters)
             }
             else if (xReceivedMessage.id == 522) // TOF 센서 + AEB
             {
-                my_printf("TOF RAW: 0x%02X 0x%02X\n", xReceivedMessage.data[0], xReceivedMessage.data[1]);
+//                my_printf("TOF RAW: 0x%02X 0x%02X\n", xReceivedMessage.data[0], xReceivedMessage.data[1]);
 
                 unsigned int front_dist = (unsigned int)(xReceivedMessage.data[0] | (xReceivedMessage.data[1] << 8));
+                my_printf("front dist: %d mm\n", front_dist);
                 Can_Set_Front_Dist(front_dist);
             }
         }

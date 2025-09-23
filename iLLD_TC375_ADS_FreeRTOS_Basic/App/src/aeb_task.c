@@ -1,8 +1,8 @@
 #include "aeb_task.h"
 #include "Drivers.h"
 
-#define AEB_DANGER_THRESHOLD    20  // cm
-#define AEB_SAFE_THRESHOLD      40  // cm
+#define AEB_DANGER_THRESHOLD    200  // mm
+#define AEB_SAFE_THRESHOLD      400  // mm
 
 void vAebTask(void *pvParameters)
 {
@@ -24,6 +24,7 @@ void vAebTask(void *pvParameters)
         else if ((front_dist > AEB_SAFE_THRESHOLD) && (Can_Get_Aeb() == 1))
         {
             Can_Aeb_Off();
+            my_printf("ABE deactivated!!\n");
         }
     }
 }

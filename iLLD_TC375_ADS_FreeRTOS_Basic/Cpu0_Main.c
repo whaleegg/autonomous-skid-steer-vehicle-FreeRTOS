@@ -57,6 +57,10 @@ void core0_main(void)
     // BSP 초기화 함수 호출
     System_Init();
 
+    // [TEMP] Raspberry Pi 없이 테스트하기 위해 모터를 기본값으로 설정
+//    Motor_Set_Left(1, 100);  // 정방향, 100 PWM
+//    Motor_Set_Right(1, 100); // 정방향, 100 PWM
+
     // 기존 FreeRTOS 예제 태스크 생성 코드
 //    xTaskCreate(task_app_led1, "APP LED1", configMINIMAL_STACK_SIZE, NULL, 0, NULL);
 //    xTaskCreate(task_app_led2, "APP LED2", configMINIMAL_STACK_SIZE, NULL, 0, NULL);
@@ -64,7 +68,7 @@ void core0_main(void)
     // 새로운 FreeRTOS 태스크 생성
     xTaskCreate(vCanMessageHandlerTask, "CAN Handler", configMINIMAL_STACK_SIZE * 2, NULL, 1, NULL);
     xTaskCreate(vAutonomousParkingTask, "Parking", configMINIMAL_STACK_SIZE * 4, NULL, 1, NULL);
-    xTaskCreate(vButtonMotorControlTask, "Button Motor", configMINIMAL_STACK_SIZE * 2, NULL, 1, NULL);
+//    xTaskCreate(vButtonMotorControlTask, "Button Motor", configMINIMAL_STACK_SIZE * 2, NULL, 1, NULL);
     // 필요에 따라 다른 태스크들도 여기에 추가
     xTaskCreate(vEncoderProcessingTask, "Encoder Task", configMINIMAL_STACK_SIZE, NULL, 1, NULL);
     xTaskCreate(vUltrasonicProcessingTask, "Ultrasonic", configMINIMAL_STACK_SIZE * 2, NULL, 2, NULL);

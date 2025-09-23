@@ -57,7 +57,7 @@ void System_Init(void)
     // ToF_Sensor_Init(); // ToF 센서가 있다면 여기에 추가
 
     /* Actuators */
-//    Motor_Init();
+    Motor_Init();
 
     /* Communication */
     Asclin0_InitUart(); // UART

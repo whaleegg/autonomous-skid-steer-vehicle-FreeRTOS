@@ -1,0 +1,16 @@
+LOADING	C:\Users\USER\Desktop\AURIX_WS\TC375LK_NGV\TriCore Debug (TASKING)\TC375LK_NGV.elf
+EMULATION	Probe - System; Root
+EMULATION	Initial debug frequency set
+EMULATION	Asserting reset
+EMULATION	Connected to SoC/core(s)
+EMULATION	Finished connecting to SoC
+EMULATION	Releasing reset
+EMULATION	Initialization script (if any) done
+No RAM which needs initialization found
+EMULATION	Final debug frequency set
+EMULATION	SoC ID match OK
+SoC	Detected device: TC370 series, rev. AA
+EMULATION	STARTED
+PROGRAMMING 	30469 bytes
+PROGRAMMING	Infineon TC37x_PFLASH_6MB (3 sectors)
+EMULATION	END - Without cleanup
